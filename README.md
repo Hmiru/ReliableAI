@@ -17,7 +17,7 @@ ECG 시계열 입력에 대해 부정맥 예측 모델이 특정 입력 조건 �
 ```bash
 git clone https://github.com/Hmiru/ReliableAI.git
 git checkout pulse
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Getting started
 ### 1. Marabou 설치
